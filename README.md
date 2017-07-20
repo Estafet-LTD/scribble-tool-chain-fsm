@@ -1,4 +1,19 @@
 # scribble-tool-chain
+There are a few videos on youtube that explain the demo at:
+
+https://www.youtube.com/watch?v=F19xFQIjNPM
+
+https://www.youtube.com/watch?v=QmbKacwwSPk
+
+https://www.youtube.com/watch?v=Urbztn0Wsac
+
+See Also:
+https://github.com/Estafet-LTD/scribble-tool-chain-fsm
+
+General description of the project:
+com.estafet.fsm.example is the main package with the finite state machine demo.
+test-data contains the scribble source file SupplierInfoNoFairBeta.scr, which is really the subject of the videos above.
+
 General Stuff:
 The scribble tools chain repo is an eclipse project that takes dot notation, generated from the Scribble compiler, and makes the dot FSM both easier to read and morphs it into an FSM config file that can be used as input to the fsmdemo project (see link below).
 

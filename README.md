@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=QmbKacwwSPk
 https://www.youtube.com/watch?v=Urbztn0Wsac
 
 See Also:
-https://github.com/Estafet-LTD/scribble-tool-chain-fsm
+https://github.com/Estafet-LTD/estafet-scribble-fsm-demo
 
 General description of the project:
 com.estafet.fsm.example is the main package with the finite state machine demo.
